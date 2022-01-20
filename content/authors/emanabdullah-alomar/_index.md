@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Emanabdullah Alomar"
+title: "Eman Abdullah AlOmar"
 
 # Username (this should match the folder name and the name on publications)
 authors:
